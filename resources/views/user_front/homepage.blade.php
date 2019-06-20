@@ -39,18 +39,8 @@
 			</form>
 			<div class="responsivemenu">
 				<ul>
-						<li class="menu-item-has-children">
-							<a href="#" title="">Home</a>
-							<ul>
-								<li><a href="index.html" title="">Home Layout 1</a></li>
-								<li><a href="index2.html" title="">Home Layout 2</a></li>
-								<li><a href="index3.html" title="">Home Layout 3</a></li>
-								<li><a href="index4.html" title="">Home Layout 4</a></li>
-								<li><a href="index5.html" title="">Home Layout 5</a></li>
-								<li><a href="index6.html" title="">Home Layout 6</a></li>
-								<li><a href="index7.html" title="">Home Layout 7</a></li>
-								<li><a href="index8.html" title="">Home Layout 8</a></li>
-							</ul>
+						<li class="">
+							<a href="#" title="">Tentang</a>
 						</li>
 						<li class="menu-item-has-children">
 							<a href="#" title="">Employers</a>
