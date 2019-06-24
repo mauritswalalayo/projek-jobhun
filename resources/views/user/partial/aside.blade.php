@@ -1,6 +1,6 @@
 <div class="responsive-header">
     <div class="responsive-menubar">
-        <div class="res-logo"><a href="{{route('index')}}" title=""><img src="http://placehold.it/178x40" alt="" /></a>
+        <div class="res-logo"><a href="{{route('index')}}" title=""><img src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" /></a>
         </div>
         <div class="menu-resaction">
             <div class="res-openmenu">
@@ -64,8 +64,7 @@
     <div class="menu-sec">
         <div class="container">
             <div class="logo">
-                <a href="{{route('index')}}" title=""><img class="hidesticky" src="http://placehold.it/178x40" alt="" /><img
-                        class="showsticky" src="http://placehold.it/178x40" alt="" /></a>
+                <a href="{{route('index')}}" title=""><img class="hidesticky" src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" /></a>
             </div><!-- Logo -->
             <div class="btn-extars">
                 <a href="#" title="" class="post-job-btn"><i class="la la-plus"></i>Post Jobs</a>
