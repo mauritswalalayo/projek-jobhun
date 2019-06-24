@@ -140,8 +140,7 @@
 								<div class="job-search-sec">
 									<div class="job-search">
 										<h3>Persiapkan Dirimu untuk Karier Terbaik di Masa Depan</h3>
-										<span>Dapatkan pekerjaan impianmu melalui Jobhun Career Hub dan kembangkan
-											berbagai skill melalui Jobhun Academy</span>
+										<span>Dapatkan pekerjaan impianmu melalui Jobhun Career Hub dan kembangkan berbagai skill melalui Jobhun Academy</span>
 										<form>
 											<div class="row">
 												<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
@@ -155,10 +154,10 @@
 													<div class="job-field">
 														<select data-placeholder="City, province or region"
 															class="chosen-city">
-															<option>New York </option>
-															<option>Istanbul</option>
-															<option>London</option>
-															<option>Russia</option>
+															<option>Surabaya </option>
+															<option>Yogyakarta</option>
+															<option>Jakarta</option>
+															<option>Bandung</option>
 														</select>
 														<i class="la la-map-marker"></i>
 													</div>
@@ -190,9 +189,9 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="simple-text-block">
-								<h3>Make a Difference with Your Online Resume!</h3>
-								<span>Your resume in minutes with JobHunt resume assistant is ready!</span>
-								<a href="#" title="">Create an Account</a>
+								<h3>Belajar kemampuan baru untuk karier impian di Jobhun Academy</h3>
+								<span>Materi sesuai dengan persiapan karier dan biaya bisa dicicil!</span>
+								<a href="#" title="">Lihat Kelas</a>
 							</div>
 						</div>
 					</div>
