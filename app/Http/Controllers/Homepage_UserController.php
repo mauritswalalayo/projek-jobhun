@@ -15,4 +15,9 @@ class Homepage_UserController extends Controller
     {
         return view('user.content.about');
     }
+
+    public function jch()
+    {
+        return view('');
+    }
 }
