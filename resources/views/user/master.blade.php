@@ -134,8 +134,8 @@
 							</div>
 							<div class="job-search-sec">
 								<div class="job-search">
-									<h3>The Easiest Way to Get Your New Job</h3>
-									<span>Find Jobs, Employment & Career Opportunities</span>
+									<h3>Persiapkan Dirimu untuk Karier Terbaik di Masa Depan</h3>
+									<span>Dapatkan pekerjaan impianmu melalui Jobhun Career Hub dan kembangkan berbagai skill melalui Jobhun Academy</span>
 									<form>
 										<div class="row">
 											<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
