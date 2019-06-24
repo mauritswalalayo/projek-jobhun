@@ -1,6 +1,7 @@
 @extends('master')
 
-@section('content')
+@section('user.content')
+
 <section>
     <div class="block no-padding">
         <div class="container fluid">
