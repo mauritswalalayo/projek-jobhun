@@ -66,23 +66,32 @@
 									nyata bagi karier masyarakat Indonesia.</p>
 
 								<h3>Misi Jobhun</h3>
-								<ol type="1">
-									<li>Membantu mengurangi angka pengangguran di Indonesia dengan menyediakan layanan
-										dan program yang dapat menunjang karier masyarakat</li>
-									<li>Mengedukasi dan menyebarkan berbagai macam informasi yang berguna untuk
-										perkembangan karier</li>
-									<li>Mendukung peningkatan dan pengembangan kemampuan masyarakat Indonesia sebagai
-										bekal dalam berkarier</li>
-									<li>Membantu masyarakat Indonesia yang masih merasa bingung dalam memilih karier
-										yang tepat bagi mereka dengan menjadi wadah yang mampu memberikan solusi</li>
-								</ol>
-							</div>
-						</div>
-						<div class="tags-share">
-							<div class="share-bar">
-								<a href="#" title="" class="share-fb"><i class="fa fa-facebook"></i></a><a href="#"
-									title="" class="share-twitter"><i class="fa fa-twitter"></i></a><a href="#" title=""
-									class="share-google"><i class="la la-google"></i></a><span>Share</span>
+								<p>
+									1. Membantu mengurangi angka pengangguran di Indonesia dengan menyediakan layanan dan program yang dapat menunjang karier masyarakat <br>
+									2. Mengedukasi dan menyebarkan berbagai macam informasi yang berguna untuk perkembangan karier <br>
+									3. Mendukung peningkatan dan pengembangan kemampuan masyarakat Indonesia sebagai bekal dalam berkarier <br>
+									4. Membantu masyarakat Indonesia yang masih merasa bingung dalam memilih karier yang tepat bagi mereka dengan menjadi wadah yang mampu memberikan solusi
+								</p>
+
+								<h3>Layanan Jobhun</h3>
+								<p>
+									1. Jobhun Career Hub <br>
+									Sebuah platform yang bisa disebut sebagai talent pool, dimana Jobhun akan mempertemukan calon pekerja atau pekerja dengan perusahaan yang sedang mencari kandidat. Melalui Jobhun Career Hub, pekerja dengan perusahaan yang sedang membuka lowongan kerja akan dipertemukan dengan mudah dan cepat. <br>
+									2. Jobhun Academy <br>
+									Jobhun Academy merupakan sebuah program pelatihan yang bertujuan untuk membekali para calon pekerja dan pekerja dengan berbagai skill yang saat ini sedang dibutuhkan di dunia kerja. Nantinya mereka akan disalurkan oleh Jobhun pada beberapa perusahaan partner Jobhun yang sedang mencari tenaga kerja atau talent melalui Jobhun Career Hub. <br>
+									3. Media Partner <br>
+									Jobhun menerima kerja sama media partner untuk acara-acara yang berhubungan dengan karier maupun penunjang skill dalam berkarier. <br>
+								</p>
+
+								<h3>Program Jobhun</h3>
+								<p>
+									1. Jobhun Internship <br>
+									Sebuah program magang dari Jobhun yang ditujukan bagi para pelajar atau mahasiswa, dengan rentang usia 15-22 tahun. Posisi magang yang dibuka biasanya menyesuaikan kebutuhan proyek Jobhun. Dalam program ini, mereka akan mendapatkan pelatihan atau mentoring beberapa topik dan berkesempatan untuk membantu tim inti Jobhun mengerjakan beberapa proyek dan pekerjaan rutin. <br>
+									2. Jobhun Talks <br>
+									Jobhun Talks merupakan sebuah sharing session yang ditujukan untuk umum, biasanya mengambil topik yang berkaitan dengan dunia kerja maupun pengembangan skill. Topik dibawakan oleh orang yang ahli dalam bidangnya, sesuai dengan topik. Inti pembicaraan kegiatan lebih kepada motivasi, tips dan trik, atau gambaran umum sebuah profesi atau hal-hal yang berkaitan dengan dunia karier. <br>
+									3. Jobhun Visit <br>
+									Jobhun Visit merupakan sebuah program kunjungan ke kantor-kantor atau instansi yang dilakukan oleh tim inti Jobhun, para intern, maupun pengguna yang beruntung. Program ini dibuat untuk memperkenalkan dunia kerja yang sesungguhnya kepada para pencari kerja. Mereka akan diajak melihat secara langsung suasana kerja yang ada di perusahaan-perusahaan, kemudian menggali lebih jauh tentang profesi-profesi yang ada pada perusahaan tersebut.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -100,7 +109,7 @@
 					<div class="our-services">
 						<div class="row">
 							<div class="col-lg-12">
-								<h2>Our Service</h2>
+								<h2>Aktivitas Jobhun</h2>
 							</div>
 							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 								<div class="service">
