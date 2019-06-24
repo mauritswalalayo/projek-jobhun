@@ -1,6 +1,6 @@
 <div class="responsive-header">
     <div class="responsive-menubar">
-        <div class="res-logo"><a href="index.html" title=""><img src="http://placehold.it/178x40" alt="" /></a>
+        <div class="res-logo"><a href="{{route('index')}}" title=""><img src="http://placehold.it/178x40" alt="" /></a>
         </div>
         <div class="menu-resaction">
             <div class="res-openmenu">
@@ -26,7 +26,7 @@
         <div class="responsivemenu">
             <ul>
                 <li class="">
-                    <a href="#" title="">Tentang Jobhun</a>
+                    <a href="{{route('about')}}" title="">Tentang Jobhun</a>
                 </li>
                 <li class="menu-item-has-children">
                     <a href="#" title="">Layanan</a>
@@ -64,7 +64,7 @@
     <div class="menu-sec">
         <div class="container">
             <div class="logo">
-                <a href="index.html" title=""><img class="hidesticky" src="http://placehold.it/178x40" alt="" /><img
+                <a href="{{route('index')}}" title=""><img class="hidesticky" src="http://placehold.it/178x40" alt="" /><img
                         class="showsticky" src="http://placehold.it/178x40" alt="" /></a>
             </div><!-- Logo -->
             <div class="btn-extars">
@@ -78,7 +78,7 @@
             <nav>
                 <ul>
                     <li class="">
-                        <a href="#" title="">Tentang Jobhun</a>
+                        <a href="{{route('about')}}" title="">Tentang Jobhun</a>
                     </li>
                     <li class="menu-item-has-children">
                         <a href="#" title="">Layanan</a>

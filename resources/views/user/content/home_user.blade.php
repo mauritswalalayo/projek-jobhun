@@ -1,6 +1,6 @@
-@extends('master')
+@extends('user.master')
 
-@section('user.content')
+@section('content')
 
 <section>
     <div class="block no-padding">

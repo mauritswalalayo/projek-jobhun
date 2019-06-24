@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('user.master');
-});
+Route::get('/', 'Homepage_UserController@index')->name('index');
+Route::get('/about', 'Homepage_UserController@tentang')->name('about');
