@@ -496,7 +496,8 @@
 								<div class="about_widget">
 									<span>Jobhun – CV Sindikat Kreasi Digital.</span>
 									<hr>
-									<span>Geco Coworking Space, Kompleks AJBS, Jl. Ratna 14, Ngagel, Wonokromo, Surabaya, Jawa Timur, Indonesia 60246.</span>
+									<span>Geco Coworking Space, Kompleks AJBS, Jl. Ratna 14, Ngagel, Wonokromo,
+										Surabaya, Jawa Timur, Indonesia 60246.</span>
 									<span>E-mail: info@jobhun.id.</span>
 									<span>Telp. & WA: 08113235533.</span>
 								</div><!-- About Widget -->
@@ -508,11 +509,7 @@
 								<div class="link_widgets">
 									<div class="row">
 										<div class="col-lg-12">
-											<a href="https://www.youtube.com/channel/UCCzKrMp711xzX8nI8zempKw?view_as=subscriber"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-											<a href="#" title="">UK Jobs</a>
-											<a href="#" title="">Emplois en Fnce</a>
-											<a href="#" title="">Jobs in Deuts</a>
-											<a href="#" title="">Vacatures China</a>
+											
 										</div>
 									</div>
 								</div>
