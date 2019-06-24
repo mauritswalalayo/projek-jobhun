@@ -205,17 +205,17 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="heading">
-								<h2>Featured Jobs</h2>
-								<span>Leading Employers already using job and talent.</span>
+								<h2>Jobhun Career Hub</h2>
+								{{-- <span>Leading Employers already using job and talent.</span> --}}
 							</div><!-- Heading -->
 							<div class="job-listings-sec">
 								<div class="job-listing">
 									<div class="job-title-sec">
 										<div class="c-logo"> <img src="http://placehold.it/98x51" alt="" /> </div>
 										<h3><a href="#" title="">Web Designer / Developer</a></h3>
-										<span>Massimo Artemisis</span>
+										<span>Surabaya</span>
 									</div>
-									<span class="job-lctn"><i class="la la-map-marker"></i>Sacramento, California</span>
+									<span class="job-lctn"><i class="la la-map-marker"></i>Jl. Ngagel</span>
 									<span class="fav-job"><i class="la la-heart-o"></i></span>
 									<span class="job-is ft">FULL TIME</span>
 								</div><!-- Job -->
@@ -223,9 +223,9 @@
 									<div class="job-title-sec">
 										<div class="c-logo"> <img src="http://placehold.it/98x51" alt="" /> </div>
 										<h3><a href="#" title="">Marketing Director</a></h3>
-										<span>Tix Dog</span>
+										<span>Jakarta</span>
 									</div>
-									<span class="job-lctn"><i class="la la-map-marker"></i>Rennes, France</span>
+									<span class="job-lctn"><i class="la la-map-marker"></i>Senayan</span>
 									<span class="fav-job"><i class="la la-heart-o"></i></span>
 									<span class="job-is pt">PART TIME</span>
 								</div><!-- Job -->
@@ -233,9 +233,9 @@
 									<div class="job-title-sec">
 										<div class="c-logo"> <img src="http://placehold.it/98x51" alt="" /> </div>
 										<h3><a href="#" title="">C Developer (Senior) C .Net</a></h3>
-										<span>StarHealth</span>
+										<span>Yogyakarta</span>
 									</div>
-									<span class="job-lctn"><i class="la la-map-marker"></i>London, United Kingdom</span>
+									<span class="job-lctn"><i class="la la-map-marker"></i>Yogyakarta</span>
 									<span class="fav-job"><i class="la la-heart-o"></i></span>
 									<span class="job-is ft">FULL TIME</span>
 								</div><!-- Job -->
@@ -243,9 +243,9 @@
 									<div class="job-title-sec">
 										<div class="c-logo"> <img src="http://placehold.it/98x51" alt="" /> </div>
 										<h3><a href="#" title="">Application Developer For Android</a></h3>
-										<span>Altes Bank</span>
+										<span>Bandung</span>
 									</div>
-									<span class="job-lctn"><i class="la la-map-marker"></i>Istanbul, Turkey</span>
+									<span class="job-lctn"><i class="la la-map-marker"></i>Bandung</span>
 									<span class="fav-job"><i class="la la-heart-o"></i></span>
 									<span class="job-is fl">FREELANCE</span>
 								</div><!-- Job -->
@@ -253,9 +253,9 @@
 									<div class="job-title-sec">
 										<div class="c-logo"> <img src="http://placehold.it/98x51" alt="" /> </div>
 										<h3><a href="#" title="">Regional Sales Manager South east Asia</a></h3>
-										<span>Vincent</span>
+										<span>Cirebon</span>
 									</div>
-									<span class="job-lctn"><i class="la la-map-marker"></i>Ajax, Ontario</span>
+									<span class="job-lctn"><i class="la la-map-marker"></i>Cirebon</span>
 									<span class="fav-job"><i class="la la-heart-o"></i></span>
 									<span class="job-is tp">TEMPORARY</span>
 								</div><!-- Job -->
@@ -263,9 +263,9 @@
 									<div class="job-title-sec">
 										<div class="c-logo"> <img src="http://placehold.it/98x51" alt="" /> </div>
 										<h3><a href="#" title="">Social Media and Public Relation Executive </a></h3>
-										<span>MediaLab</span>
+										<span>Surabaya</span>
 									</div>
-									<span class="job-lctn"><i class="la la-map-marker"></i>Ankara / Turkey</span>
+									<span class="job-lctn"><i class="la la-map-marker"></i>Surabaya</span>
 									<span class="fav-job"><i class="la la-heart-o"></i></span>
 									<span class="job-is ft">FULL TIME</span>
 								</div><!-- Job -->
@@ -273,7 +273,7 @@
 						</div>
 						<div class="col-lg-12">
 							<div class="browse-all-cat">
-								<a href="#" title="">Load more listings</a>
+								<a href="#" title="">Lihat Lainnya</a>
 							</div>
 						</div>
 					</div>
@@ -290,8 +290,8 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="heading light">
-								<h2>Kind Words From Happy Candidates</h2>
-								<span>What other people thought about the service provided by JobHunt</span>
+								<h2>Testimoni</h2>
+								<span>Kami mempertemukan perusahaan dan pencari kerja, sekaligus membantu pekerja mengembangkan skill.</span>
 							</div><!-- Heading -->
 							<div class="reviews-sec" id="reviews-carousel">
 								<div class="col-lg-6">
@@ -339,9 +339,8 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="heading">
-								<h2>Companies We've Helped</h2>
-								<span>Some of the companies we've helped recruit excellent applicants over the
-									years.</span>
+								<h2>Pernah diliput di</h2>
+								<span>Beberapa perusahaan telah membantu merekrut pelamar yang sangat baik selama bertahun-tahun.</span>
 							</div><!-- Heading -->
 							<div class="comp-sec">
 								<div class="company-img">
@@ -375,9 +374,8 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="heading">
-								<h2>Quick Career Tips</h2>
-								<span>Found by employers communicate directly with hiring managers and
-									recruiters.</span>
+								<h2>Blog</h2>
+								<span>Baca berbagai konten seputar karier yang dapat menambah pengetahuanmu dalam dunia kerja</span>
 							</div><!-- Heading -->
 							<div class="blog-sec">
 								<div class="row">
@@ -447,21 +445,6 @@
 			</div>
 		</section>
 
-		<section>
-			<div class="block no-padding">
-				<div class="container fluid">
-					<div class="row">
-						<div class="col-lg-12">
-							<div class="simple-text">
-								<h3>Gat a question?</h3>
-								<span>We're here to help. Check out our FAQs, send us an email or call us at 1 (800)
-									555-5555</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
 
 
 		<footer>
