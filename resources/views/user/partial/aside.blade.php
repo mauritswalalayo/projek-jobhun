@@ -64,7 +64,7 @@
     <div class="menu-sec">
         <div class="container">
             <div class="logo">
-                <a href="{{route('index')}}" title=""><img class="hidesticky" src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" /></a>
+                    <a href="{{route('index')}}" title=""><img class="hidesticky" src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" /><img class="showsticky" src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" />
             </div><!-- Logo -->
             <div class="btn-extars">
                 <a href="#" title="" class="post-job-btn"><i class="la la-plus"></i>Post Jobs</a>
