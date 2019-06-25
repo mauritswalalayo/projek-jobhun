@@ -83,8 +83,8 @@
                         <a href="#" title="">Layanan</a>
                         <ul>
                             <li><a href="{{ route ('jch')}}" title=""> Jobhun Career Hub</a></li>
-                            <li><a href="employer_list2.html" title="">Jobhun Academy</a></li>
-                            <li><a href="employer_list3.html" title="">Media Partner</a></li>
+                            <li><a href="" title="">Jobhun Academy</a></li>
+                            <li><a href="" title="">Media Partner</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
