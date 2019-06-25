@@ -18,4 +18,8 @@ Route::get('/about', 'Homepage_UserController@tentang')->name('about');
 Route::get('/jobhuncareerhub', 'Homepage_UserController@jch')->name('jch');
 
 
-Route::get('/PageAdmin', 'Homepage_AdminController@index');
+
+
+Route::get('/PageAdmin', 'Homepage_AdminController@index')->name('index');
+
+Route::get('/AdminTable', 'Homepage_AdminController@admintable')->name('admin.user');

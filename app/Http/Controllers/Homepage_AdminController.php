@@ -8,6 +8,13 @@ class Homepage_AdminController extends Controller
 {
     public function index()
     {
-        return view('admin.content.home');
+        return view('admin.content.index');
+    }
+
+
+
+    public function admintable()
+    {
+        return view('admin.content.user.table');
     }
 }
