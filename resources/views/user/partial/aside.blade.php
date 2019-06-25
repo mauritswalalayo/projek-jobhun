@@ -1,6 +1,6 @@
 <div class="responsive-header">
     <div class="responsive-menubar">
-        <div class="res-logo"><a href="{{route('index')}}" title=""><img src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" /></a>
+        <div class="res-logo"><a href="{{route('index')}}" title=""><img src="{{ asset('user/images/jobhun.png')}}" height="50" alt="" /></a>
         </div>
         <div class="menu-resaction">
             <div class="res-openmenu">
@@ -64,7 +64,7 @@
     <div class="menu-sec">
         <div class="container">
             <div class="logo">
-                    <a href="{{route('index')}}" title=""><img class="hidesticky" src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" /><img class="showsticky" src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" />
+                    <a href="{{route('index')}}" title=""><img class="hidesticky" src="{{ asset('user/images/jobhun.png')}}" height="50" alt="" /><img class="showsticky" src="{{ asset('user/images/jobhun.png')}}" height="50" alt="" />
             </div><!-- Logo -->
             <div class="btn-extars">
                 <a href="#" title="" class="post-job-btn"><i class="la la-plus"></i>Post Jobs</a>
@@ -98,8 +98,8 @@
                     <li class="menu-item-has-children">
                         <a href="#" title="">Blog</a>
                         <ul>
-                            <li><a href="blog_list.html">Cerita Karier</a></li>
-                            <li><a href="blog_list2.html">Infografik</a></li>
+                            <li><a href="{{ route ('ck')}}">Cerita Karier</a></li>
+                            <li><a href="{{ route ('infografik')}}">Infografik</a></li>
                             <li><a href="blog_list3.html">Karierpedia</a></li>
                             <li><a href="blog_single.html">Artikel</a></li>
                             <li><a href="blog_single.html">Berita</a></li>

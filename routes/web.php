@@ -21,9 +21,13 @@ Route::get('/about', 'Homepage_UserController@tentang')->name('about');
 Route::get('/jobhuncareerhub', 'Homepage_UserController@jch')->name('jch');
 
 // Program
-Route::get('/jobhuninternship', 'Homepage_UserController@ji')->name('ji');
-Route::get('/jobhuntalks', 'Homepage_UserController@jt')->name('jt');
-Route::get('/jobhunvisit', 'Homepage_UserController@jv')->name('jv');
+Route::get('/jobhun-internship', 'Homepage_UserController@ji')->name('ji');
+Route::get('/jobhun-talks', 'Homepage_UserController@jt')->name('jt');
+Route::get('/jobhun-visit', 'Homepage_UserController@jv')->name('jv');
+
+// Blog
+Route::get('/cerita-karier', 'Homepage_UserController@ck')->name('ck');
+Route::get('/infografik', 'Homepage_UserController@infografik')->name('infografik');
 
 
 

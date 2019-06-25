@@ -37,4 +37,16 @@ class Homepage_UserController extends Controller
     {
         return view('user.content.program.jv');
     }
+
+
+    // Blog
+    public function ck()
+    {
+        return view('user.content.blog.ck');
+    }
+
+    public function infografik()
+    {
+        return view('user.content.blog.infografik');
+    }
 }
