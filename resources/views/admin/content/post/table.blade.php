@@ -1,12 +1,12 @@
 @extends('admin.master')
 
-@section('title' , 'User Table')
+@section('title' , 'Post Table')
 
 @section('content')
 <div class="box box-primary">
     <div class="box-header with-border">
         {{-- @if(Auth::user()->role == 'admin') --}}
-        <a href="{{route('admin.user.form')}}" class="btn btn-primary">Tambah User</a>
+        <a href="{{route('admin.post.form')}}" class="btn btn-primary">Tambah User</a>
         {{-- @endif --}}
     </div>
     <div class="box-body">
@@ -25,10 +25,8 @@
                     <td></td>
                     <td></td>
                     <td>
-                        <a href=""
-                            class="btn btn-warning btn-sm glyphicon glyphicon-pencil">Edit</a>
-                        <a href=""
-                            class="btn btn-danger btn-sm glyphicon glyphicon-trash">Delete</a>
+                        <a href="" class="btn btn-warning btn-sm glyphicon glyphicon-pencil">Edit</a>
+                        <a href="" class="btn btn-danger btn-sm glyphicon glyphicon-trash">Delete</a>
                     </td>
                 </tr>
             </tbody>

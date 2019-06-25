@@ -12,14 +12,26 @@ class Homepage_AdminController extends Controller
     }
 
 
-
-    public function admintable()
+    // ======================== Bagian Admin di User ======================== //
+    public function usertable()
     {
         return view('admin.content.user.table');
     }
 
-    public function adminform()
+    public function userform()
     {
         return view('admin.content.user.form');
+    }
+
+
+    // ======================== Bagian Admin di Post ======================== //
+    public function posttable()
+    {
+        return view('admin.content.post.table');
+    }
+
+    public function postform()
+    {
+        return view('admin.content.post.form');
     }
 }

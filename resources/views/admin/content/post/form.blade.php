@@ -1,6 +1,6 @@
 @extends('admin.master')
 
-@section('title', 'User Form')
+@section('title', 'Post Form')
 
 @section('content')
 <div class="box box-primary">
@@ -45,4 +45,4 @@
     </form>
     </div>
 
-@endsection
+    @endsection

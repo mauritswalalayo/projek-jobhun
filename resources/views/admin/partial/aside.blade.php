@@ -31,7 +31,7 @@
             </li>
 
             <li class="treeview">
-                    <a href="">
+                    <a href="{{route('admin.post')}}">
                         <i class="glyphicon glyphicon-list-alt"></i> <span>Post</span>
                         <span class="pull-right-container">
                         </span>

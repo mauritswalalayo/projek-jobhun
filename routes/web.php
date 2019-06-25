@@ -22,8 +22,15 @@ Route::get('/jobhuncareerhub', 'Homepage_UserController@jch')->name('jch');
 
 
 
-Route::get('/PageAdmin', 'Homepage_AdminController@index')->name('index');
+Route::get('/pageadmin', 'Homepage_AdminController@index')->name('index');
 
-// ======================== Bagian Admin ======================== //
-Route::get('/AdminTable', 'Homepage_AdminController@admintable')->name('admin.user');
-Route::get('/AdminForm', 'Homepage_AdminController@adminform')->name('admin.user.form');
+// ======================== Bagian Admin di User ======================== //
+Route::get('/adminuser', 'Homepage_AdminController@usertable')->name('admin.user');
+Route::get('/adminuserform', 'Homepage_AdminController@userform')->name('admin.user.form');
+
+
+
+
+// ======================== Bagian Admin di Post ======================== //
+Route::get('/adminpost', 'Homepage_AdminController@posttable')->name('admin.post');
+Route::get('/adminpostform', 'Homepage_AdminController@postform')->name('admin.post.form');
