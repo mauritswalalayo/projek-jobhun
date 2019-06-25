@@ -17,4 +17,9 @@ class Homepage_AdminController extends Controller
     {
         return view('admin.content.user.table');
     }
+
+    public function adminform()
+    {
+        return view('admin.content.user.form');
+    }
 }

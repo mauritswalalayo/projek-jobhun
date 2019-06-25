@@ -22,4 +22,6 @@ Route::get('/jobhuncareerhub', 'Homepage_UserController@jch')->name('jch');
 
 Route::get('/PageAdmin', 'Homepage_AdminController@index')->name('index');
 
+// ======================== Bagian User ======================== //
 Route::get('/AdminTable', 'Homepage_AdminController@admintable')->name('admin.user');
+Route::get('/AdminForm', 'Homepage_AdminController@adminform')->name('admin.user.form');
