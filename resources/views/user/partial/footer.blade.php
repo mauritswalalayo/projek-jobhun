@@ -6,7 +6,7 @@
                     <div class="widget">
                         <div class="about_widget">
                             <div class="logo">
-                                <a href="{{route('index')}}" title=""><img src="{{ asset('user/images/jobhun.png')}}" width="178" height="40" alt="" /></a>
+                                <a href="{{route('index')}}" title=""><img src="{{ asset('user/images/jobhun.png')}}" height="50" alt="" /></a>
                             </div>
                             <span>Semua hal yang dibutuhkan para pencari kerja maupun perusahaan yang sedang
                                 mencari pekerja ada di Jobhun. Pencari kerja dapat menemukan pekerjaan,
