@@ -16,3 +16,6 @@ Route::get('/', 'Homepage_UserController@index')->name('index');
 Route::get('/about', 'Homepage_UserController@tentang')->name('about');
 
 Route::get('/jobhuncareerhub', 'Homepage_UserController@jch')->name('jch');
+
+
+Route::get('/PageAdmin', 'Homepage_AdminController@admin');
