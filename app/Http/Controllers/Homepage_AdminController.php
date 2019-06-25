@@ -34,4 +34,16 @@ class Homepage_AdminController extends Controller
     {
         return view('admin.content.post.form');
     }
+
+
+    // ======================== Bagian Admin di Tag ======================== //
+    public function tagtable()
+    {
+        return view('admin.content.tag.table');
+    }
+
+    public function tagform()
+    {
+        return view('admin.content.tag.form');
+    }
 }

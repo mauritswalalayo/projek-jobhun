@@ -34,3 +34,10 @@ Route::get('/adminuserform', 'Homepage_AdminController@userform')->name('admin.u
 // ======================== Bagian Admin di Post ======================== //
 Route::get('/adminpost', 'Homepage_AdminController@posttable')->name('admin.post');
 Route::get('/adminpostform', 'Homepage_AdminController@postform')->name('admin.post.form');
+
+
+
+
+// ======================== Bagian Admin di Tag ======================== //
+Route::get('/admintag', 'Homepage_AdminController@tagtable')->name('admin.tag');
+Route::get('/admintagform', 'Homepage_AdminController@tagform')->name('admin.tag.form');

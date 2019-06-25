@@ -39,7 +39,7 @@
                 </li>
 
                 <li class="treeview">
-                    <a href="">
+                    <a href="{{route('admin.tag')}}">
                         <i class="glyphicon glyphicon-tags"></i> <span>Tag</span>
                         <span class="pull-right-container">
                         </span>
