@@ -17,12 +17,18 @@ Route::get('/', 'Homepage_UserController@index')->name('index');
 
 Route::get('/about', 'Homepage_UserController@tentang')->name('about');
 
+// Layanan
 Route::get('/jobhuncareerhub', 'Homepage_UserController@jch')->name('jch');
 
+// Program
+Route::get('/jobhuninternship', 'Homepage_UserController@ji')->name('ji');
+Route::get('/jobhuntalks', 'Homepage_UserController@jt')->name('jt');
+Route::get('/jobhunvisit', 'Homepage_UserController@jv')->name('jv');
 
 
 
-Route::get('/pageadmin', 'Homepage_AdminController@index')->name('index');
+
+Route::get('/pageadmin', 'Homepage_AdminController@index')->name('index2');
 
 // ======================== Bagian Admin di User ======================== //
 Route::get('/adminuser', 'Homepage_AdminController@usertable')->name('admin.user');

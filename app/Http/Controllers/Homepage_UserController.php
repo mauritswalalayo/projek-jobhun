@@ -8,16 +8,33 @@ class Homepage_UserController extends Controller
 {
     public function index()
     {
-        return view('user.content.home_user');
+        return view('user.content.home.home_user');
     }
 
     public function tentang()
     {
-        return view('user.content.about');
+        return view('user.content.about.about');
     }
 
+    // Layanan
     public function jch()
     {
-        return view('');
+        return view('user.content.service.jch');
+    }
+
+    // Program
+    public function ji()
+    {
+        return view('user.content.program.ji');
+    }
+
+    public function jt()
+    {
+        return view('user.content.program.jt');
+    }
+
+    public function jv()
+    {
+        return view('user.content.program.jv');
     }
 }

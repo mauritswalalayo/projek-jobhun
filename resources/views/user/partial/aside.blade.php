@@ -82,7 +82,7 @@
                     <li class="menu-item-has-children">
                         <a href="#" title="">Layanan</a>
                         <ul>
-                            <li><a href="employer_list1.html" title=""> Jobhun Career Hub</a></li>
+                            <li><a href="{{ route ('jch')}}" title=""> Jobhun Career Hub</a></li>
                             <li><a href="employer_list2.html" title="">Jobhun Academy</a></li>
                             <li><a href="employer_list3.html" title="">Media Partner</a></li>
                         </ul>
@@ -90,9 +90,9 @@
                     <li class="menu-item-has-children">
                         <a href="#" title="">Program</a>
                         <ul>
-                            <li><a href="candidates_list.html" title="">Jobhun Internship</a></li>
-                            <li><a href="candidates_list2.html" title="">Jobhun Talks</a></li>
-                            <li><a href="candidates_list3.html" title="">Jobhun Visit</a></li>
+                            <li><a href="{{ route ('ji')}}" title="">Jobhun Internship</a></li>
+                            <li><a href="{{ route ('jt')}}" title="">Jobhun Talks</a></li>
+                            <li><a href="{{ route ('jv')}}" title="">Jobhun Visit</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">

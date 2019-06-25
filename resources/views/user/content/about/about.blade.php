@@ -101,7 +101,7 @@
 	</div>
 </section>
 
-<section>
+{{-- <section>
 	<div class="block remove-top">
 		<div class="container">
 			<div class="row">
@@ -177,7 +177,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> --}}
 
 
 @endsection
