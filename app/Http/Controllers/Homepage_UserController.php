@@ -49,4 +49,24 @@ class Homepage_UserController extends Controller
     {
         return view('user.content.blog.infografik');
     }
+
+    public function kp()
+    {
+        return view('user.content.blog.kp');
+    }
+
+    public function artikel()
+    {
+        return view('user.content.blog.artikel');
+    }
+
+    public function berita()
+    {
+        return view('user.content.blog.berita');
+    }
+
+    public function ia()
+    {
+        return view('user.content.blog.ia');
+    }
 }

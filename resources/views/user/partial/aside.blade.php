@@ -100,10 +100,10 @@
                         <ul>
                             <li><a href="{{ route ('ck')}}">Cerita Karier</a></li>
                             <li><a href="{{ route ('infografik')}}">Infografik</a></li>
-                            <li><a href="blog_list3.html">Karierpedia</a></li>
-                            <li><a href="blog_single.html">Artikel</a></li>
-                            <li><a href="blog_single.html">Berita</a></li>
-                            <li><a href="blog_single.html">Info Acara</a></li>
+                            <li><a href="{{ route ('kp')}}">Karierpedia</a></li>
+                            <li><a href="{{ route ('artikel')}}">Artikel</a></li>
+                            <li><a href="{{ route ('berita')}}">Berita</a></li>
+                            <li><a href="{{ route ('ia')}}">Info Acara</a></li>
                         </ul>
                     </li>
                 </ul>
