@@ -48,9 +48,9 @@
                         <h3 class="footer-title">Media Sosial Jobhun</h3>
                         <div class="about_widget">
                             <div class="social">
-                                <a href="https://www.youtube.com/channel/UCCzKrMp711xzX8nI8zempKw?view_as=subscriber" title=""><i class="fa fa-youtube"></i></a>
-                                <a href="https://www.instagram.com/jobhun/" title=""><i class="fa fa-instagram"></i></a>
-                                <a href="https://www.linkedin.com/company/jobhun-surabaya/" title=""><i class="fa fa-linkedin"></i></a>
+                                <a href="https://www.youtube.com/channel/UCCzKrMp711xzX8nI8zempKw?view_as=subscriber" target="_blank" title=""><i class="fa fa-youtube"></i></a>
+                                <a href="https://www.instagram.com/jobhun/" target="_blank" title=""><i class="fa fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/company/jobhun-surabaya/" target="_blank" title=""><i class="fa fa-linkedin"></i></a>
                             </div>
                         </div><!-- About Widget -->
                         <div class="about_widget">
